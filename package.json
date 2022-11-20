@@ -1,0 +1,27 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "for study purposes",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testingsqa/cypress-e2e.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "test"
+  ],
+  "author": "Diego Corredor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testingsqa/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/testingsqa/cypress-e2e#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
